@@ -1,6 +1,7 @@
 // import PropTypes from 'prop-types';
 import PropTypes from 'prop-types';
 import { useState } from 'react';
+import React from 'react';
 import { Container } from './App.styled';
 import { Statistics } from './Statistics/Statisctics';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
